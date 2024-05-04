@@ -2,7 +2,7 @@
 
 * 📅 15+ years of software engineering experience
 * 🏢 Chief Technologist for multiple organizations
-* 🌱 Co-founded a software start-up and grew it from 2 employees to over 20 at peak
+* 🌱 Co-founded a software start-up and grew it from 2 employees to over 20
 
 [LinkedIn](https://linkedin.com/in/jordanbsanders) | [Noteworthy Projects](https://jordanbsanders.com/projects) | [jordanbsanders.com](https://jordanbsanders.com)
 
@@ -42,7 +42,7 @@ I excel in both autonomous and collaborative environments, having worked closely
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b.svg?style-flat-square&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 
 ### DevOps
