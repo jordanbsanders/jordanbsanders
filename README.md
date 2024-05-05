@@ -8,7 +8,7 @@
 
 I have served as a Developer, Technical Lead, Software Architect, and Chief Technologist for nearly two decades. With proficiency in languages such as Ruby, JavaScript, Java, Python, PHP, SQL, and more, I take a hands-on approach to stay connected with the ever-evolving landscape of technology.
 
-Throughout my career, I've led the technology departments for three organizations, including one I co-founded. From developing innovative solutions to leading cross-functional teams, my contributions have consistently driven success. Please see my Projects section below for some of my noteworthy achievements.
+Throughout my career, I've led the technology departments for three organizations, including one I co-founded. From developing innovative solutions to leading cross-functional teams, my contributions have consistently driven success. Please see my Noteworthy Projects link above for more details on some of my achievements.
 
 I excel in both autonomous and collaborative environments, having worked closely with C-level leadership, internally and externally, across organizations of all sizes. My approach is focused on business results over technological idealism which has proven to be a successful formula throughout my career.
 
