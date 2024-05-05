@@ -23,6 +23,8 @@ I excel in both autonomous and collaborative environments, having worked closely
 ![SQL](https://img.shields.io/badge/SQL-cccccc.svg?style=flat-square&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![BASH Script](https://img.shields.io/badge/BASH_Script-444444.svg?style=flat-square&logo=gnu-bash&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white)
 
 ### Frameworks
 
@@ -50,10 +52,11 @@ I excel in both autonomous and collaborative environments, having worked closely
 ![AWS](https://img.shields.io/badge/Amazon%20Web%20Services-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat-square&logo=render&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat-square&logo=digitalOcean&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat-square&logo=heroku&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-%23430098.svg?style=flat-square&logo=heroku&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=flat-square&logo=terraform&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white)
 ![CircleCI](https://img.shields.io/badge/Circle%20CI-%23161616.svg?style=flat-square&logo=circleci&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
 
 ### Tools
 
@@ -61,6 +64,7 @@ I excel in both autonomous and collaborative environments, having worked closely
 ![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-cc6699.svg?style=flat-square&logo=SASS&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?style=flat-square&logo=vim&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=flat-square&logo=obsidian&logoColor=white)
 
 ### Operating Systems
 
